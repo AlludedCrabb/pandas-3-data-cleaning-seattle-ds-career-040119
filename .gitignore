@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+making a change so it will accept
 # C extensions
 *.so
 
