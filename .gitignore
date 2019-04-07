@@ -71,9 +71,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
+DATA/
 # pyenv
 .python-version
+.DS_Store
 
 # celery beat schedule file
 celerybeat-schedule
